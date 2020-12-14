@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ridhuan</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Ridhuan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Dec 2020 14:15:59 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get to know me!</title>
+      <link>http://example.org/posts/page/</link>
+      <pubDate>Mon, 07 Dec 2020 14:15:59 +0000</pubDate>
+      
+      <guid>http://example.org/posts/page/</guid>
+      <description>Getting started As-Salaamualaikum(Peace be upon You) and Hi, let me introduces my-self first. My name is Muhammad Ridhuan Bin Mohd Salleh. I am from Malaysia.</description>
+    </item>
+    
+    <item>
+      <title>Test page 2</title>
+      <link>http://example.org/posts/page2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/page2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>http://example.org/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/archives/</guid>
+      <description>archives</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://example.org/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/</guid>
+      <description>projects</description>
+    </item>
+    
+  </channel>
+</rss>
